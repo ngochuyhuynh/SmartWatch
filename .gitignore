@@ -1,0 +1,10 @@
+/Debug/
+/Release/
+
+/.settings/
+.project
+.cproject
+.mxproject
+
+*.launch
+*.su
